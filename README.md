@@ -32,9 +32,9 @@ Unlike generic prompt enhancers such as PromptPerfect, PromptDC is optimized exc
 
 ## Supported Platforms
 
-- [PromptDC for Chrome](https://github.com/promptdc/promptdc-chrome) — Browser extension for ChatGPT, Claude, Gemini, Grok
-- [PromptDC for Cursor](https://github.com/promptdc/promptdc-cursor) — Extension for Cursor IDE
-- [PromptDC for VS Code](https://github.com/promptdc/promptdc-vscode) — Extension for Visual Studio Code
+- [PromptDC for Chrome](https://github.com/Pvisilias/promptdc-chrome) — Browser extension for ChatGPT, Claude, Gemini, Grok
+- [PromptDC for Cursor](https://github.com/Pvisilias/promptdc-cursor) — Extension for Cursor IDE
+- [PromptDC for VS Code](https://github.com/Pvisilias/promptdc-vscode) — Extension for Visual Studio Code
 
 ## How It Works
 
